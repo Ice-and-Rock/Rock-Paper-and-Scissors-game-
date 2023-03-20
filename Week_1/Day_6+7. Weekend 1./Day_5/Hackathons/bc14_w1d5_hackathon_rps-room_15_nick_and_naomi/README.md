@@ -95,7 +95,7 @@ This will be deemed as complete when the function can be called with any combina
 
 ## Task 3: User Input
 
-Using `prompt`, get a user-inputted value for the player move. Then call your function with that value as the player move and the hard-coded computer move. Display the result using `alert`.
+Using `prompt`, get a user-inputted value for "the player move". Then call your function with that value as "the player move" and the hard-coded "computer move". Display the result using `alert`.
 
 This will be deemed as complete when you can input any move for the player move and hard-code any move for the computer move and see the correct result (1, 0, or -1) in the alert.
 
